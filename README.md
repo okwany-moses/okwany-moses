@@ -25,8 +25,8 @@ Tech I used: Python, docx2pdf, and OS file management.
 Why I built it: To save time. Opening dozens of Word files just to click "Save As PDF" over and over is a waste of energy.
 Coolest feature: It handles massive folders all at once without messing up the original document formatting.
 
-🧰 Tech StackCategory
-What I Use
+🧰 Tech StackCategory   
+What I Use:
 Languages - Python 3.x, JavaScript, SQL
 Tools - GitHub, Android Debug Bridge (ADB)
 Focus Areas - System Administration, File Automation, API Integrations
